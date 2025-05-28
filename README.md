@@ -114,7 +114,7 @@ Requirements:
 
 Backend Setup:
 # Clone repo
-git clone https://github.com/yourusername/crypto-liquidity-predictor.git
+git clone [https://github.com/yourusername/crypto-liquidity-predictor.git]
 cd crypto-liquidity-predictor/backend
 
 # Create & activate virtual environment
